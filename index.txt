@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Australian players
 Indian players
+=======
+Indian players
+Australian players
+England players
+>>>>>>> baf6f022f91451b570a0044bfda9f14d6a5f80cc
 
